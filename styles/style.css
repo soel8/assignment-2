@@ -1,0 +1,49 @@
+/******** font family input  ********/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    background-color:#040a78ed;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+    
+}
+nav{
+display: flex;
+justify-content: space-between;
+
+}
+h1{
+    color: #FFFFFF;
+}
+span{
+    padding-left: 50px;
+}
+.first-division{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+.first-division img{
+    
+    width: 556.01px;
+    height: 438px;
+
+}
+.first-division a{
+    
+    color: white;
+    width: 270px;
+    height: 100px;
+    background-color:#E02C6D ;
+    text-decoration: none;  
+}
+.link-button{
+    
+    color: white;
+    background-color:#E02C6D ;
+    text-decoration: none;  
+}
