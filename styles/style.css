@@ -47,3 +47,40 @@ span{
     background-color:#E02C6D ;
     text-decoration: none;  
 }
+p{
+    color: #6C6C6C;
+}
+.next-level{
+    
+
+    width: 300px;
+    height: 474px;
+    background-color: #FFFFFF;
+    /* padding-left: 15px;
+    padding-top: 15px; */
+    justify-content: center;
+}
+.next-level img{
+    height: 256px;
+    width: 300px;
+    padding-left: 15px;
+    padding-top: 15px; 
+}
+.next-level, h2, p{
+    margin-left: 15px;
+
+    
+}
+.grid-use{
+    display: grid;
+    /* background-color: rgba(0, 0, 0, 0.15); */
+    grid-gap: 0.1em;
+    grid-template-columns: repeat(3, 1fr);
+    /* align-items: center;     */
+    /* justify-content: center; */
+    margin: 5px;
+    border-radius: 5px;
+    /* padding-left: 10px;
+    padding-top: 10px; */
+}
+
