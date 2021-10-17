@@ -83,4 +83,40 @@ p{
     /* padding-left: 10px;
     padding-top: 10px; */
 }
+.bottom-line{
+    margin-left: 15px;
+   
+
+}
+.bottom-img{
+   height: 427px;
+   width: 567px;
+   
+}
+.first-image{
+height: 110px;
+width: 483px;
+
+}
+.second-image{
+    width: 25px;
+    height: 20px;
+    padding-left: 20px;
+}
+.footer .first-image{
+    /* width: 283px;
+    height: 213px; */
+    margin-left: -170px;
+    
+   
+    
+}
+.footer-align{
+    margin-left: 10px;
+    display: flex;
+
+}
+footer{
+    margin-left: 500px;
+}
 
